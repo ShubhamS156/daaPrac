@@ -1,0 +1,8 @@
+Power of Numbers ...see solution tricks given..
+Lucky Number
+Rod Cutting
+SubsetSum
+Finding Subset
+Tower of Hanoi
+Josephus
+Possible words from phone.

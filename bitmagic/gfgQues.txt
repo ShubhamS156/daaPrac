@@ -1,0 +1,2 @@
+See soultion of count total set bits.
+Swap all odd and even bits O(1) soultion.

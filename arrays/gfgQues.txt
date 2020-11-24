@@ -1,0 +1,13 @@
+remove duplicate elements from sorted arr
+move zeroes to the end(easy buy nice)
+find max difference..(good question)
+trapping rain water
+min flips to make array same, also print from to to for the group of bits
+to flip
+prefix sum and sliding window technique
+smallest positive missing number
+rearrange array alternatively (seg fault in submission)
+rearrange array with 0(1) extra space 
+maximum index ...find j-i such that arr[i]<=arr[j]
+stock buy and sell
+circular subarr with max sum
