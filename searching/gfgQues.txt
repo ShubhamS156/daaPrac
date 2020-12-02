@@ -1,0 +1,5 @@
+search in infinite array in log(pos) time complexity
+search in sorted rotated array
+median in sorted arrays
+repeating elements
+alloc min pages
