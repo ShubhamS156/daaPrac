@@ -1,0 +1,6 @@
+subarray with 0 sum
+subarray with given sum
+longest subarr with given sum
+longest subarr with equal number of 0 and 1
+longest common span with equal sum
+longest consecutive subsequence
