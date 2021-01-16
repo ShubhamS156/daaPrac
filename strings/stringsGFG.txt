@@ -1,0 +1,8 @@
+naive pattern searching
+naive with distinct pattern searching.
+rabin karp
+kmp algo
+anagram search
+longest substring with distinct characters
+leftmost non repeating character
+
