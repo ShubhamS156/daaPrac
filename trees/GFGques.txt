@@ -1,0 +1,3 @@
+LeftView of tree
+check for balanced trees
+construct binary tree using inorder preorder
